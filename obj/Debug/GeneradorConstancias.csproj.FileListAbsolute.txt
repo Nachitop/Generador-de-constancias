@@ -1,0 +1,22 @@
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\bin\Debug\GeneradorConstancias.exe.config
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\bin\Debug\GeneradorConstancias.exe
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\bin\Debug\GeneradorConstancias.pdb
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csprojResolveAssemblyReference.cache
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csproj.ResolveComReference.cache
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.Properties.Resources.resources
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csproj.GenerateResource.Cache
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csproj.CoreCompileInputs.cache
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.exe
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.pdb
+C:\Users\sears 249\source\repos\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.Alumno.resources
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\bin\Debug\GeneradorConstancias.exe.config
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\bin\Debug\GeneradorConstancias.exe
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\bin\Debug\GeneradorConstancias.pdb
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csprojAssemblyReference.cache
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csproj.ResolveComReference.cache
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.Properties.Resources.resources
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csproj.GenerateResource.cache
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.csproj.CoreCompileInputs.cache
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.exe
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.pdb
+C:\Users\HEY\Desktop\GeneradorConstancias\GeneradorConstancias\obj\Debug\GeneradorConstancias.Form1.resources
